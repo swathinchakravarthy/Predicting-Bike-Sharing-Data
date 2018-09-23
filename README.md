@@ -22,4 +22,4 @@ The goal of the project was to meet the following specifications:
 
 # Additional Remarks
 
-The model predicts data quite accurately. The bias however stems from the insufficient availability of data collected during the holiday week of the month.
+The model predicts data quite accurately. The bias however stems from the insufficient availability of data during the holiday week of the month.
